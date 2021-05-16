@@ -1,0 +1,749 @@
+[
+    {
+        "nombre": "AFGANISTAN "
+    },
+    {
+        "nombre": "AGUAS INTERNACIONALES   "
+    },
+    {
+        "nombre": "ALBANIA   "
+    },
+    {
+        "nombre": "ANDORRA   "
+    },
+    {
+        "nombre": "ANGOLA   "
+    },
+    {
+        "nombre": "ANGUILA (ISLA)  "
+    },
+    {
+        "nombre": "ANTIGUA Y BARBUDA "
+    },
+    {
+        "nombre": "ANTILLAS NEERLANDESAS  "
+    },
+    {
+        "nombre": "APATRIDAS   "
+    },
+    {
+        "nombre": "ARABIA SAUDI   "
+    },
+    {
+        "nombre": "ARGELIA   "
+    },
+    {
+        "nombre": "ARGENTINA   "
+    },
+    {
+        "nombre": "ARMENIA  "
+    },
+    {
+        "nombre": "ARUBA   "
+    },
+    {
+        "nombre": "AUSTRALIA   "
+    },
+    {
+        "nombre": "AUSTRIA   "
+    },
+    {
+        "nombre": "AZERBAIYAN   "
+    },
+    {
+        "nombre": "BAHAMAS   "
+    },
+    {
+        "nombre": "BAHREIN (MANAMA) "
+    },
+    {
+        "nombre": "BANGLADESH  "
+    },
+    {
+        "nombre": "BARBADOS   "
+    },
+    {
+        "nombre": "BELGICA   "
+    },
+    {
+        "nombre": "BELICE   "
+    },
+    {
+        "nombre": "BENIN   "
+    },
+    {
+        "nombre": "BERMUDAS (COL. BRITANICAS)  "
+    },
+    {
+        "nombre": "BIELORRUSIA   "
+    },
+    {
+        "nombre": "BIRMANIA(MYANMAR)   "
+    },
+    {
+        "nombre": "BOLIVIA  "
+    },
+    {
+        "nombre": "BOSNIA-HERZEGOVINA   "
+    },
+    {
+        "nombre": "BOTSWANA   "
+    },
+    {
+        "nombre": "BRASIL  "
+    },
+    {
+        "nombre": "BRUNEI  "
+    },
+    {
+        "nombre": "BULGARIA  "
+    },
+    {
+        "nombre": "BURKINA FASO  "
+    },
+    {
+        "nombre": "BURUNDI   "
+    },
+    {
+        "nombre": "BUTAN   "
+    },
+    {
+        "nombre": "CABO VERDE (ISLA) "
+    },
+    {
+        "nombre": "CAMBOYA(CAMBODIA)  "
+    },
+    {
+        "nombre": "CAMERUN "
+    },
+    {
+        "nombre": "CANADA "
+    },
+    {
+        "nombre": "CHAD "
+    },
+    {
+        "nombre": "CHILE "
+    },
+    {
+        "nombre": "CHIPRE "
+    },
+    {
+        "nombre": "COLOMBIA "
+    },
+    {
+        "nombre": "COMORAS "
+    },
+    {
+        "nombre": "COSTA RICA   "
+    },
+    {
+        "nombre": "CUBA "
+    },
+    {
+        "nombre": "CURAZAO "
+    },
+    {
+        "nombre": "DINAMARCA "
+    },
+    {
+        "nombre": "DJIBOUTI "
+    },
+    {
+        "nombre": "DOMINICA "
+    },
+    {
+        "nombre": "ECUADOR "
+    },
+    {
+        "nombre": "EGIPTO "
+    },
+    {
+        "nombre": "EL SALVADOR   "
+    },
+    {
+        "nombre": "EMIRATOS ARABES UNIDOS   "
+    },
+    {
+        "nombre": "ERITREA "
+    },
+    {
+        "nombre": "ESCOCIA "
+    },
+    {
+        "nombre": "ESPAÑA "
+    },
+    {
+        "nombre": "ESTADOS FEDERADO DE MICRONESIA  "
+    },
+    {
+        "nombre": "ESTADOS UNIDOS DE AMERICA   "
+    },
+    {
+        "nombre": "ETIOPIA   "
+    },
+    {
+        "nombre": "FEDERACION RUSA  "
+    },
+    {
+        "nombre": "FILIPINAS   "
+    },
+    {
+        "nombre": "FINLANDIA   "
+    },
+    {
+        "nombre": "FRANCIA   "
+    },
+    {
+        "nombre": "GABON   "
+    },
+    {
+        "nombre": "GAMBIA  "
+    },
+    {
+        "nombre": "GEORGIA  "
+    },
+    {
+        "nombre": "GHANA   "
+    },
+    {
+        "nombre": "GIBRALTAR (COLONIA BRITANICA)  "
+    },
+    {
+        "nombre": "GRANADA   "
+    },
+    {
+        "nombre": "GRECIA   "
+    },
+    {
+        "nombre": "GROENLANDIA(DINAMARCA)   "
+    },
+    {
+        "nombre": "GUADALUPE(I DE LAS ANT)FRANCIA  "
+    },
+    {
+        "nombre": "GUAM (E.U.A)   "
+    },
+    {
+        "nombre": "GUATEMALA   "
+    },
+    {
+        "nombre": "GUAYANA FRANCESA  "
+    },
+    {
+        "nombre": "GUERNSEY   "
+    },
+    {
+        "nombre": "GUINEA   "
+    },
+    {
+        "nombre": "GUINEA BISSAU  "
+    },
+    {
+        "nombre": "GUINEA ECUATORIAL "
+    },
+    {
+        "nombre": "GUINEA PORTUGUESA  "
+    },
+    {
+        "nombre": "GUYANA   "
+    },
+    {
+        "nombre": "HAITI   "
+    },
+    {
+        "nombre": "HOLANDA  "
+    },
+    {
+        "nombre": "HONDURAS  "
+    },
+    {
+        "nombre": "HONG KONG  "
+    },
+    {
+        "nombre": "HUNGRIA  "
+    },
+    {
+        "nombre": "INDIA   "
+    },
+    {
+        "nombre": "INDONESIA  "
+    },
+    {
+        "nombre": "IRAK  "
+    },
+    {
+        "nombre": "IRAN  "
+    },
+    {
+        "nombre": "IRLANDA  "
+    },
+    {
+        "nombre": "ISLA BOUVET(NORUEGA)  "
+    },
+    {
+        "nombre": "ISLA DE MAN   "
+    },
+    {
+        "nombre": "ISLANDIA   "
+    },
+    {
+        "nombre": "ISLAS CAYMAN (R.UNIDO)   "
+    },
+    {
+        "nombre": "ISLAS CHRISTMAS(E.U.A.)  "
+    },
+    {
+        "nombre": "ISLAS COOK (NUEVA ZELANDA)  "
+    },
+    {
+        "nombre": "ISLAS DE COCOS O KEELING(AUS.)  "
+    },
+    {
+        "nombre": "ISLAS DE LA REUNION (FRANCIA)  "
+    },
+    {
+        "nombre": "ISLAS FEROE(DINAMARCA)   "
+    },
+    {
+        "nombre": "ISLAS GEORGIA DEL SUR Y   SANDWICH DEL SUR   "
+    },
+    {
+        "nombre": "ISLAS HEARD Y MCDONALD(AUSTRAL)   "
+    },
+    {
+        "nombre": "ISLAS MALVINAS(R.UNIDO)   "
+    },
+    {
+        "nombre": "ISLAS MARIANAS DEL NORTE(E.U.A)   "
+    },
+    {
+        "nombre": "ISLAS MARSHALL (E.U.A)   "
+    },
+    {
+        "nombre": "ISLAS SALOMON   "
+    },
+    {
+        "nombre": "ISLAS SVALBARD Y JAN MAYEN(NOR.)   "
+    },
+    {
+        "nombre": "ISLAS ULTRAMARINAS MENORES DE ESTADOS UNIDOS  "
+    },
+    {
+        "nombre": "ISLAS VIRGENES (E.U.A)   "
+    },
+    {
+        "nombre": "ISLAS VIRGENES (R. UNIDO)   "
+    },
+    {
+        "nombre": "ISLAS WALLIS Y FUTUNA(FRANCIA)  "
+    },
+    {
+        "nombre": "ISRAEL  "
+    },
+    {
+        "nombre": "ITALIA  "
+    },
+    {
+        "nombre": "JAMAICA  "
+    },
+    {
+        "nombre": "JAPON  "
+    },
+    {
+        "nombre": "JERSEY  "
+    },
+    {
+        "nombre": "JORDANIA  "
+    },
+    {
+        "nombre": "KENIA  "
+    },
+    {
+        "nombre": "KIRIBATI  "
+    },
+    {
+        "nombre": "KUWAIT  "
+    },
+    {
+        "nombre": "LESOTO  "
+    },
+    {
+        "nombre": "LIBANO  "
+    },
+    {
+        "nombre": "LIBERIA  "
+    },
+    {
+        "nombre": "LIBIA  "
+    },
+    {
+        "nombre": "LUXEMBURGO  "
+    },
+    {
+        "nombre": "MACAO (REP.POPULAR DE CHINA)   "
+    },
+    {
+        "nombre": "MALASIA   "
+    },
+    {
+        "nombre": "MALAWI   "
+    },
+    {
+        "nombre": "MALI   "
+    },
+    {
+        "nombre": "MALTA   "
+    },
+    {
+        "nombre": "MARRUECOS   "
+    },
+    {
+        "nombre": "MARTINICA (DEP. FRANCESA)   "
+    },
+    {
+        "nombre": "MAURICIO   "
+    },
+    {
+        "nombre": "MAYOTTE(FRANCIA)   "
+    },
+    {
+        "nombre": "MEXICO   "
+    },
+    {
+        "nombre": "MONGOLIA   "
+    },
+    {
+        "nombre": "MONSERRAT(R.UNIDO)   "
+    },
+    {
+        "nombre": "MOZAMBIQUE   "
+    },
+    {
+        "nombre": "NAMIBIA   "
+    },
+    {
+        "nombre": "NAURU   "
+    },
+    {
+        "nombre": "NEPAL  "
+    },
+    {
+        "nombre": "NEVIS ISLA(NIUE)   "
+    },
+    {
+        "nombre": "NICARAGUA   "
+    },
+    {
+        "nombre": "NIGER   "
+    },
+    {
+        "nombre": "NIGERIA  "
+    },
+    {
+        "nombre": "NORFOLK ISLA DE (AUSTRALIA)  "
+    },
+    {
+        "nombre": "NORUEGA   "
+    },
+    {
+        "nombre": "NUEVA CALEDONIA (FRANCIA)  "
+    },
+    {
+        "nombre": "NUEVA ZELANDA  "
+    },
+    {
+        "nombre": "OMAN   "
+    },
+    {
+        "nombre": "PAKISTAN   "
+    },
+    {
+        "nombre": "PALESTINA  "
+    },
+    {
+        "nombre": "PANAMA  "
+    },
+    {
+        "nombre": "PAPUA NUEVA GUINEA   "
+    },
+    {
+        "nombre": "PARAGUAY   "
+    },
+    {
+        "nombre": "PERU   "
+    },
+    {
+        "nombre": "PITCAIRN(R.UNIDO)   "
+    },
+    {
+        "nombre": "POLINESIA FRANCESA   "
+    },
+    {
+        "nombre": "POLONIA   "
+    },
+    {
+        "nombre": "PORTUGAL "
+    },
+    {
+        "nombre": "PRINCIPADO DE LIECHTENSTEIN  "
+    },
+    {
+        "nombre": "PRINCIPADO DE MONACO   "
+    },
+    {
+        "nombre": "PUERTO RICO  "
+    },
+    {
+        "nombre": "QATAR    "
+    },
+    {
+        "nombre": "REINO UNIDO  "
+    },
+    {
+        "nombre": "REP ÁRABE SAHARAUI DEMOCRÁTICA  "
+    },
+    {
+        "nombre": "REP.DEMOCRA.DEL CONGO   "
+    },
+    {
+        "nombre": "REP.FEDERAL DE YUGOSLAVIA  "
+    },
+    {
+        "nombre": "REP.POPULAR DEMOCRATICA DE COREA  "
+    },
+    {
+        "nombre": "REPUBLICA  ISLAMICA DE MAURITANIA "
+    },
+    {
+        "nombre": "REPUBLICA CENTROAFRICANA    "
+    },
+    {
+        "nombre": "REPUBLICA CHECA                                      "
+    },
+    {
+        "nombre": "REPUBLICA DE COREA ( SUR )   "
+    },
+    {
+        "nombre": "REPUBLICA DE COSTA DE MARFIL   "
+    },
+    {
+        "nombre": "REPUBLICA DE CROACIA   "
+    },
+    {
+        "nombre": "REPUBLICA DE ESLOVENIA   "
+    },
+    {
+        "nombre": "REPUBLICA DE ESTONIA   "
+    },
+    {
+        "nombre": "REPUBLICA DE KAZAJSTAN   "
+    },
+    {
+        "nombre": "REPUBLICA DE KIRGUISTAN   "
+    },
+    {
+        "nombre": "REPUBLICA DE LAS ISLAS FIYI    "
+    },
+    {
+        "nombre": "REPUBLICA DE LAS MALDIVAS    "
+    },
+    {
+        "nombre": "REPUBLICA DE LETONIA   "
+    },
+    {
+        "nombre": "REPUBLICA DE LITUANIA   "
+    },
+    {
+        "nombre": "REPUBLICA DE MACEDONIA   "
+    },
+    {
+        "nombre": "REPUBLICA DE MADAGASCAR   "
+    },
+    {
+        "nombre": "REPUBLICA DE MOLDAVIA   "
+    },
+    {
+        "nombre": "REPUBLICA DE MONTENEGRO   "
+    },
+    {
+        "nombre": "REPUBLICA DE PALAOS   "
+    },
+    {
+        "nombre": "REPUBLICA DE SERBIA   "
+    },
+    {
+        "nombre": "REPUBLICA DEL CONGO   "
+    },
+    {
+        "nombre": "REPUBLICA DOMINICANA   "
+    },
+    {
+        "nombre": "REPUBLICA ESLOVACA   "
+    },
+    {
+        "nombre": "REPUBLICA FEDERAL DE ALEMANIA   "
+    },
+    {
+        "nombre": "REPUBLICA POPULAR CHINA   "
+    },
+    {
+        "nombre": "REPUBLICA POPULAR DEMOCRATICA DE LAOS   "
+    },
+    {
+        "nombre": "RUMANIA   "
+    },
+    {
+        "nombre": "RWANDA (RUANDA)   "
+    },
+    {
+        "nombre": "SAMOA OCCIDENTAL   "
+    },
+    {
+        "nombre": "SAMOA ORIENTAL (E.U.A.)   "
+    },
+    {
+        "nombre": "SAN CRISTOBAL Y NEVIS   "
+    },
+    {
+        "nombre": "SAN MARINO   "
+    },
+    {
+        "nombre": "SAN PEDRO Y MIGUELÓN(FRANCIA)   "
+    },
+    {
+        "nombre": "SAN VICENTE Y LAS GRANADINAS   "
+    },
+    {
+        "nombre": "SANTA ELENA(R.UNIDO)   "
+    },
+    {
+        "nombre": "SANTA LUCIA   "
+    },
+    {
+        "nombre": "SANTO TOME Y PRINCIPE   "
+    },
+    {
+        "nombre": "SENEGAL   "
+    },
+    {
+        "nombre": "SEYCHELLES   "
+    },
+    {
+        "nombre": "SIERRA LEONA   "
+    },
+    {
+        "nombre": "SINGAPUR   "
+    },
+    {
+        "nombre": "SIRIA   "
+    },
+    {
+        "nombre": "SOMALIA   "
+    },
+    {
+        "nombre": "SRI LANKA   "
+    },
+    {
+        "nombre": "SUDAFRICA REP. DE   "
+    },
+    {
+        "nombre": "SUDAN   "
+    },
+    {
+        "nombre": "SUECIA   "
+    },
+    {
+        "nombre": "SUIZA   "
+    },
+    {
+        "nombre": "SURINAM   "
+    },
+    {
+        "nombre": "SWAZILANDIA   "
+    },
+    {
+        "nombre": "TAILANDIA   "
+    },
+    {
+        "nombre": "TAIWAN   "
+    },
+    {
+        "nombre": "TANZANIA   "
+    },
+    {
+        "nombre": "TAYIKISTAN   "
+    },
+    {
+        "nombre": "TERRITORIO BRITANICO DEL OCEANO INDICO   "
+    },
+    {
+        "nombre": "TERRITORIOS AUSTRALES Y ANTARTICOS FRANCESES   "
+    },
+    {
+        "nombre": "TIMOR ISLA DE (INDONESIA)   "
+    },
+    {
+        "nombre": "TOGO   "
+    },
+    {
+        "nombre": "TOKELAU (ISLA DE NUEVA ZELANDA)   "
+    },
+    {
+        "nombre": "TONGA   "
+    },
+    {
+        "nombre": "TRINIDAD Y TOBAGO   "
+    },
+    {
+        "nombre": "TUNEZ (TUNICIA)   "
+    },
+    {
+        "nombre": "TURCOS Y CAICOS (R. UNIDO)   "
+    },
+    {
+        "nombre": "TURKMENISTAN   "
+    },
+    {
+        "nombre": "TURQUIA   "
+    },
+    {
+        "nombre": "TUVALU   "
+    },
+    {
+        "nombre": "UCRANIA   "
+    },
+    {
+        "nombre": "UGANDA   "
+    },
+    {
+        "nombre": "URUGUAY   "
+    },
+    {
+        "nombre": "UZBEKISTAN   "
+    },
+    {
+        "nombre": "VANUATU   "
+    },
+    {
+        "nombre": "VATICANO   "
+    },
+    {
+        "nombre": "VENEZUELA   "
+    },
+    {
+        "nombre": "VIETNAM   "
+    },
+    {
+        "nombre": "YEMEN REP. ARABE DEL   "
+    },
+    {
+        "nombre": "ZAIRE   "
+    },
+    {
+        "nombre": "ZAMBIA   "
+    },
+    {
+        "nombre": "ZIMBABWE  "
+    }
+]
